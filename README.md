@@ -1,2 +1,2 @@
 # SyntaxHub-Projects
-Minor Learning Projects developed throughout the virtual Bootcamp !!!!
+Minor Learning Projects developed throughout the Virtual Bootcamp !!!!
